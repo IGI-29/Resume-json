@@ -1,0 +1,116 @@
+{
+    "basics": {
+    "name": "Adarsh Gupta",
+    "label": "Student",
+    "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQHBpydl84eKBA/profile-displayphoto-shrink_800_800/0/1627745593390?e=1632960000&v=beta&t=LQBIV2Eah8lvAD4SxDZU-hh5LJJRd9MOPOQteR4btiw",
+    "email": "2019kucp1010@iiitkota.ac.in",
+    "phone": "9407236713",
+    "website": "https://igi-29.github.io/My-Portfolio/",
+    "summary": "Hello, I’m Adarsh, Currently Pursuing my B.Tech Degree in Computer Science and Engineering from Indian Institute of Information Technology, Kota. I am a Programmer, Web Developer, Content Writer and Digital Marketer. I am Zealous Towards Technology and Always Open to Work with Programming Facts.",
+    "location": {
+    "address": "108, Mayur Nagar, Thatipur",
+    "postalCode": "474011",
+    "city": "Gwalior",
+    "countryCode": "India",
+    "region": "Madhya Pradesh"
+    },
+    "profiles": [
+    {
+    "network": "Twitter",
+    "username": "handle",
+    "url": "https://www.twitter.com/adarshgupta_29"
+    },
+    {
+    "network": "Github",
+    "username": "handle",
+    "url": "https://www.github.com/IGI-29/"
+    },
+    {
+    "network": "linkedin",
+    "username": "username",
+    "url": "https://www.linkedin.com/in/adarsh-gupta-89bb33197/"
+    },
+    {
+    "network": "Instagram",
+    "username": "handle",
+    "url": "https://instagram.com/i_g_i_29"
+    }
+    ]
+    },
+    "work": [
+    {
+    "company": "",
+    "position": "",
+    "website": "",
+    "startDate": "",
+    "endDate": "",
+    "summary": "",
+    "highlights": [
+    "",
+    ""
+    ]
+    }
+    ],
+    "volunteer": [
+    {
+    "organization": "HOPE NGO",
+    "position": "Team Representative",
+    "website": "www.hopeeverywhere.in",
+    "startDate": "2019-10-16",
+    "endDate": "2019-10-21",
+    "summary": "Collecting unused clothes from students and donated to needy people",
+    "highlights": []
+    }
+    ],
+    "education": [
+    {
+    "institution": "Indian Institute of Information technology,kota",
+    "area": "Engineering",
+    "studyType": "Bachelor (hons)",
+    "startDate": "2019-08-01",
+    "endDate": "",
+    "gpa": "8.19",
+    "courses": [
+    "Computer Science & Engineering"
+    ]
+    }
+    ],
+    "awards": [
+    {
+    "title": "",
+    "awarder": "",
+    "date": ""
+    }
+    ],
+    "publications": [
+    {
+    "title": "",
+    "details": "",
+    "link": ""
+    }
+    ],
+    "skills": [
+    {
+    "level": "Master",
+    "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "React",
+    "C/C++",
+    "Java",
+    "Python"
+    ]
+    }
+    ],
+    "interests": [
+    {
+    "name": "Sports",
+    "keywords": [
+    "Football",
+    "Badminton"
+    ]
+    }
+    ],
+    "references": []
+    }
